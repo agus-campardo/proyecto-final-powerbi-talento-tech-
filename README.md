@@ -25,3 +25,14 @@ Este proyecto aplica los fundamentos de Business Intelligence vistos durante la 
 - ### ETAPA 4: Storytelling y Recomendaciones (Google Slides)
 
 - Elaboración de una presentación tipo storytelling que comunica los hallazgos de manera clara y convincente, con propuestas estratégicas basadas en datos.
+
+## Estructura del proyecto 
+```text
+├── Sets de datos originales/
+├── Copia de TPI - Agustina Campardo
+├── Locker Studio - Informe.pdf
+├── README.md
+├── TPI - Agustina Campardo.pptx
+├── TPI - Agustina Campardo.xlsx
+└── TPI - Agustina Campardo.docx
+```
