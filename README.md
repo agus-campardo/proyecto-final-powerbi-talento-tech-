@@ -1,4 +1,4 @@
-# nálisis de Ventas E-commerce - Proyecto BI Consulting
+# Análisis de Ventas E-commerce - Proyecto BI Consulting
 
 ## Descripción del Proyecto 
 
